@@ -9,6 +9,6 @@
 Сервис для поиска и аренды оборудования и инструментов для домашнего ремонта и строительства.
 
 ## Сервисы
-  [Trello](https://trello.com/invite/b/PzubQP0v/ATTIffc118891697d03dd6abdd6dcaeeff34C9B002A3/тп-92)\
+  [YouTrack](https://rentool.youtrack.cloud/agiles/159-2/current)\
   [Figma](https://www.figma.com/file/b1cB5xFWFMcpCHpYBF1Oxz/tp-9.2?type=design&mode=design&t=Bu2FpO7ULpbCLKJd-1)\
   [Miro](https://miro.com/app/dashboard/)
