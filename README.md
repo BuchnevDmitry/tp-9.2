@@ -1,9 +1,9 @@
 # ТП-9-2
 
 ### Студенты:
-- [Бучнев Дмитрий](https://github.com/BuchnevDmitry) - Тимлид
-- [Ремезов Вадим](https://github.com/bitchofson) -
-- [Клоков Евгений](https://github.com/e9nchrv) - Дизайнер
+- [Бучнев Дмитрий](https://github.com/BuchnevDmitry) - Team Lead, тестировщик, back-end разработчик
+- [Ремезов Вадим](https://github.com/bitchofson) - Архитектор, технический писатель, front-end разработчик
+- [Клоков Евгений](https://github.com/e9nchrv) - PM, Дизайнер
   
 ### Тема
 Сервис для поиска и аренды оборудования и инструментов для домашнего ремонта и строительства.
