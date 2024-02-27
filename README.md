@@ -1,8 +1,8 @@
 # ТП-9-2
 
 ### Студенты:
-- [Бучнев Дмитрий](https://github.com/BuchnevDmitry) - Team Lead, тестировщик, back-end разработчик
-- [Ремезов Вадим](https://github.com/bitchofson) - Архитектор, технический писатель, front-end разработчик
+- [Бучнев Дмитрий](https://github.com/BuchnevDmitry) - Team Lead, back-end разработчик, тестировщик
+- [Ремезов Вадим](https://github.com/bitchofson) - Архитектор, front-end разработчик, технический писатель
 - [Клоков Евгений](https://github.com/e9nchrv) - PM, Дизайнер
   
 ### Тема
