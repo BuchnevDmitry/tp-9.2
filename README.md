@@ -1,16 +1,14 @@
-# Приложение "ToolBox"
-
 # ТП-9-2
 
 ### Студенты:
-- [Бучнев Дмитрий](https://github.com/BuchnevDmitry) - Тимлид
-- [Ремезов Вадим](https://github.com/bitchofson) - Жёсткий
-- [Клоков Евгений](https://github.com/e9nchrv) - Дизайнер, PM, Бизнес-аналитик
+- [Бучнев Дмитрий](https://github.com/BuchnevDmitry) - Team Lead, back-end разработчик, тестировщик
+- [Ремезов Вадим](https://github.com/bitchofson) - Архитектор, front-end разработчик, технический писатель
+- [Клоков Евгений](https://github.com/e9nchrv) - PM, Дизайнер
   
 ### Тема
 Сервис для поиска и аренды оборудования и инструментов для домашнего ремонта и строительства.
 
 ## Сервисы
-  [Trello](https://trello.com/invite/b/PzubQP0v/ATTIffc118891697d03dd6abdd6dcaeeff34C9B002A3/тп-92)\
+  [YouTrack](https://rentool.youtrack.cloud/agiles/159-2/current)\
   [Figma](https://www.figma.com/file/b1cB5xFWFMcpCHpYBF1Oxz/tp-9.2?type=design&mode=design&t=Bu2FpO7ULpbCLKJd-1)\
-  [Miro](https://miro.com/app/dashboard/)
+  [Miro](https://miro.com/app/board/uXjVNpUOoUI=/)
