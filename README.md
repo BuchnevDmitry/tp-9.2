@@ -21,7 +21,7 @@
 
 ### Презентация проекта
 - Сопроводительное письмо [(DOCX)](https://github.com/BuchnevDmitry/tp-9.2/blob/main/documentation/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE.docx) [(PDF)](https://github.com/BuchnevDmitry/tp-9.2/blob/main/documentation/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE.pdf)
-- Презентация [(PPTX)](https://github.com/BuchnevDmitry/tp-9.2/blob/main/presentation/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F.pptx) [(PDF)](https://github.com/BuchnevDmitry/tp-9.2/blob/main/presentation/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F.pdf)
+- Презентация [(PPTX)](https://github.com/BuchnevDmitry/tp-9.2/blob/main/presentation/Presentation_9.2.pptx) [(PDF)](https://github.com/BuchnevDmitry/tp-9.2/blob/main/presentation/Presentation_9.2.pdf)
 - Видео презентация [(GoogleDrive)](https://drive.google.com/file/d/1_hr4NI8T3bHeOKWhnQ-OMMlze1tIbaeU/view?usp=sharing)
 - Видео презентация мобильного приложения (2 аттестация) [(GoogleDrive)](https://drive.google.com/file/d/1jcSJ666L3rnGGGccTFjXU1-65Fo3_WNh/view)
 
