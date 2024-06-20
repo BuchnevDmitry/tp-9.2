@@ -53,6 +53,9 @@ __Зарегистрированный пользователь в мобиль�
 - [Сервис аренды](https://api-rent.rentool36.ru/swagger-ui/index.html)
 - [Пользовательский сервис](https://api-user.rentool36.ru/swagger-ui/index.html)
 
+### Установочный файл мобильного приложения
+- [APK](https://github.com/BuchnevDmitry/mobile-9.2/releases/download/v.1.0.0/app-release.apk)
+
 ### Подмодули разрабатываемого сервиса
 - [Back-end](https://github.com/BuchnevDmitry/backend-9.2)
 - [Mobile-app](https://github.com/BuchnevDmitry/mobile-9.2)
