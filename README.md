@@ -30,7 +30,7 @@
 - Курсовой проект [(DOCX)](https://github.com/BuchnevDmitry/tp-9.2/blob/main/documentation/Курсовой%20проект.docx) [(PDF)](https://github.com/BuchnevDmitry/tp-9.2/blob/main/documentation/Курсовой%20проект.pdf)
 - Подтверждение корректного оформления технического задания [(PDF)](https://github.com/BuchnevDmitry/tp-9.2/blob/main/documentation/%D0%9E%D1%84%D0%BE%D1%80%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.pdf)
 
-### Сайт
+### Админ-панель
 - [rentool36.ru](https://rentool36.ru)
 
 ### Доступ к Swagger UI
@@ -40,4 +40,5 @@
 
 ### Подмодули разрабатываемого сервиса
 - [Back-end](https://github.com/BuchnevDmitry/backend-9.2)
-- [Front-end](https://github.com/BuchnevDmitry/mobile-9.2)
+- [Mobile-app](https://github.com/BuchnevDmitry/mobile-9.2)
+- [Front-end](https://github.com/bitchofson/admin-rentool)
