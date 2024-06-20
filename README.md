@@ -26,7 +26,7 @@
 - Видео презентация мобильного приложения (2 аттестация) [(Google Drive)](https://drive.google.com/file/d/1jcSJ666L3rnGGGccTFjXU1-65Fo3_WNh/view)
 - Видео демонстрация архитектуры мобильного приложения (3 аттестация) [(Yandex Disk)](https://disk.yandex.com/d/5Dmyh35VoKY-RA)
 - Видео демонстрация архитектуры back-end (3 аттестация) [(Yandex Disk)](https://disk.yandex.ru/i/yplTNs2kRYB2UQ)
-- Видео презентация мобильного приложения (3 аттестация) [(Google Drive)]()
+- Видео презентация мобильного приложения (3 аттестация) [(Google Drive)](https://drive.google.com/file/d/1keaxA2yULgDasC6H6eyG_SGqDgehcQ-6/view?usp=share_link)
 
 ### Документация
 - Техническое задание [(DOCX)](https://github.com/BuchnevDmitry/tp-9.2/blob/main/documentation/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx) [(PDF)](https://github.com/BuchnevDmitry/tp-9.2/blob/main/documentation/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
